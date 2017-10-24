@@ -70,4 +70,13 @@ a:hover {
 }
 
 /*ESCRIBE TU CÓDIGO DESDE AQUÍ*/
+header {
+  outline: 1px solid yellow;
+}
 
+div a {
+  outline: 1px solid green;
+}
+div {
+  outline: 1px solid yellow;
+}
